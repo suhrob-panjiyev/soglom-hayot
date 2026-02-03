@@ -62,26 +62,6 @@ cd soglom-hayot
 pip install -r requirements.txt
 streamlit run Home.py
 ```
-📂 Loyiha tuzilishi
-
-calorie_app/
-│
-├── Home.py
-├── foods.csv
-├── requirements.txt
-│
-├── pages/
-│   ├── 1_🥗_Calculator.py
-│   ├── 2_📈_Tracker.py
-│   ├── 3_🍽_Diet_Tips.py
-│   ├── 4_ℹ️_About.py
-│   ├── 5_🍔_Food_Log.py
-│   └── 6_💾_Backup_Restore.py
-│
-└── utils/
-    ├── calculations.py
-    └── db.py
-
 
 
 👤 Muallif
