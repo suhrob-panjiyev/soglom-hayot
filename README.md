@@ -7,7 +7,7 @@ Sog‘lom Hayot — bu **kaloriya hisoblash, ovqat nazorati va vazn kuzatish** u
 ---
 
 ## 🚀 Demo
-🔗 Live app: [https://YOUR-LINK.streamlit.app](https://soglom-hayot-suhrob.streamlit.app/)
+🔗 Live app: (https://soglom-hayot-suhrob.streamlit.app/)
 
 ---
 
