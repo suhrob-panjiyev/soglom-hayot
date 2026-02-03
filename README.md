@@ -62,31 +62,7 @@ cd soglom-hayot
 pip install -r requirements.txt
 streamlit run Home.py
 ```
-🎯 Maqsad
 
-Bu loyiha:
-
-Streamlit o‘rganish
-
-ML + sog‘liq sohasida amaliy loyiha qilish
-
-Ommabop startupga aylantirish
-
-uchun yaratilgan.
-
-Kelajakda:
-
-katta ovqatlar bazasi
-
-user login
-
-cloud database
-
-AI diet tavsiyalar
-
-mobil versiya
-
-qo‘shiladi.
 
 👤 Muallif
 
